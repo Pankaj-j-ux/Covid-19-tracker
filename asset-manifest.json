@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Covid-19-tracker/static/css/main.e6d0c408.chunk.css",
+    "main.js": "/Covid-19-tracker/static/js/main.4619b813.chunk.js",
+    "main.js.map": "/Covid-19-tracker/static/js/main.4619b813.chunk.js.map",
+    "runtime-main.js": "/Covid-19-tracker/static/js/runtime-main.e5371ee1.js",
+    "runtime-main.js.map": "/Covid-19-tracker/static/js/runtime-main.e5371ee1.js.map",
+    "static/css/2.4be38407.chunk.css": "/Covid-19-tracker/static/css/2.4be38407.chunk.css",
+    "static/js/2.94017fc8.chunk.js": "/Covid-19-tracker/static/js/2.94017fc8.chunk.js",
+    "static/js/2.94017fc8.chunk.js.map": "/Covid-19-tracker/static/js/2.94017fc8.chunk.js.map",
+    "index.html": "/Covid-19-tracker/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/Covid-19-tracker/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.e6d0c408.chunk.css.map": "/Covid-19-tracker/static/css/main.e6d0c408.chunk.css.map",
+    "static/js/2.94017fc8.chunk.js.LICENSE.txt": "/Covid-19-tracker/static/js/2.94017fc8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Covid-19-tracker/static/media/ashkan-forouzani-ignxm3E1Rg4-unsplash.842bbe99.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5371ee1.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.94017fc8.chunk.js",
+    "static/css/main.e6d0c408.chunk.css",
+    "static/js/main.4619b813.chunk.js"
+  ]
+}
